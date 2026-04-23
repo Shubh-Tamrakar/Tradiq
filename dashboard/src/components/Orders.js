@@ -41,6 +41,7 @@ const Orders = () => {
                 <td>{stock.price.toFixed(2)}</td>
                 <td>{stock.mode}</td>
               </tr>
+              
             );
           })}
         </table>

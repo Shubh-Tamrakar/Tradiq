@@ -7,7 +7,7 @@ function Footer() {
         <div className="row mt-5">
           <div className="col">
             <img src="media/images/logo.svg" style={{ width: "50%" }} className="mb-3" />
-            <p className="mb-4">&copy; 2010 - 2024, Zerodha Broking Ltd. All rights reserved.</p>
+            <p className="mb-4">&copy; 2026, Tradiq Broking Ltd. All rights reserved.</p>
             <div className="fs-4 d-flex gap-3 text-muted">
               <i class="fa-brands fa-x-twitter"></i>
               <i class="fa-brands fa-square-facebook"></i>
@@ -33,11 +33,11 @@ function Footer() {
             <br />
             <a href="">Careers</a>
             <br />
-            <a href="">Zerodha.tech</a>
+            <a href="">Tradiq.tech</a>
             <br />
             <a href="">Press & media</a>
             <br />
-            <a href="">Zerodha Cares (CSR)</a>
+            <a href="">Tradiq Cares (CSR)</a>
             <br />
           </div>
           <div className="col footer-nav">
@@ -61,7 +61,7 @@ function Footer() {
         </div>
         <div className="mt-5 text-muted" style={{ fontSize: "14px" }}>
           <p>
-            Zerodha Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration no.: INZ000031633 CDSL/NSDL: Depository services through Zerodha Broking Ltd. – SEBI Registration no.: IN-DP-431-2019 Commodity Trading through Zerodha Commodities Pvt. Ltd. MCX: 46025; NSE-50001 – SEBI Registration no.: INZ000038238 Registered Address: Zerodha Broking Ltd., #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India. For any complaints pertaining to securities broking please write to complaints@zerodha.com, for DP related to dp@zerodha.com. Please ensure you carefully read the Risk Disclosure Document as prescribed by SEBI | ICF Procedure to file a complaint on SEBI SCORES: Register on SCORES portal. Mandatory details for filing complaints on SCORES: Name, PAN, Address, Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy redressal of the grievances Smart Online Dispute Resolution | Grievances Redressal
+            Tradiq Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration no.: INZ000031633 CDSL/NSDL: Depository services through Tradiq Broking Ltd. – SEBI Registration no.: IN-DP-431-2019 Commodity Trading through Tradiq Commodities Pvt. Ltd. MCX: 46025; NSE-50001 – SEBI Registration no.: INZ000038238 Registered Address: Tradiq Broking Ltd., #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India. For any complaints pertaining to securities broking please write to complaints@Tradiq.com, for DP related to dp@Tradiq.com. Please ensure you carefully read the Risk Disclosure Document as prescribed by SEBI | ICF Procedure to file a complaint on SEBI SCORES: Register on SCORES portal. Mandatory details for filing complaints on SCORES: Name, PAN, Address, Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy redressal of the grievances Smart Online Dispute Resolution | Grievances Redressal
             Mechanism
           </p>
           <br />
@@ -70,7 +70,7 @@ function Footer() {
             not
           </p>
           <br />
-          <p>undergo the same process again when you approach another intermediary." Dear Investor, if you are subscribing to an IPO, there is no need to issue a cheque. Please write the Bank account number and sign the IPO application form to authorize your bank to make payment in case of allotment. In case of non allotment the funds will remain in your bank account. As a business we don't give stock tips, and have not authorized anyone to trade on behalf of others. If you find anyone claiming to be part of Zerodha and offering such services, please create a ticket here.</p>
+          <p>undergo the same process again when you approach another intermediary." Dear Investor, if you are subscribing to an IPO, there is no need to issue a cheque. Please write the Bank account number and sign the IPO application form to authorize your bank to make payment in case of allotment. In case of non allotment the funds will remain in your bank account. As a business we don't give stock tips, and have not authorized anyone to trade on behalf of others. If you find anyone claiming to be part of Tradiq and offering such services, please create a ticket here.</p>
           <br />
         </div>
         <div className="mt-2 text-muted d-flex gap-3 justify-content-center footer-links" style={{ fontSize: "15px" }}>

@@ -49,3 +49,9 @@ code {
   border-radius: 10px;
   border: none;
 }
+
+
+  .white-link {
+    color: white;
+    text-decoration: none;
+  }

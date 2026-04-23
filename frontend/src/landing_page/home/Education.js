@@ -13,7 +13,7 @@ function Education() {
           <a href="" style={{ textDecoration: "none" }}>
             varsity <i class="fa-solid fa-arrow-right-long"></i>
           </a>
-          <p className="mt-5">TradingQ&A, the most active trading and investment community in India for all your market related queries.</p>
+          <p className="mt-5">Trading Q&A, the most active trading and investment community in India for all your market related queries.</p>
           <a href="" style={{ textDecoration: "none" }}>
             TradingQ&A <i class="fa-solid fa-arrow-right-long"></i>
           </a>

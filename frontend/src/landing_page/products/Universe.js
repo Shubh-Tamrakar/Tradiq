@@ -4,7 +4,7 @@ function Universe() {
   return (
     <div className="container mt-5">
       <div className="row text-center">
-        <h1>The Zerodha Universe</h1>
+        <h1>The Tradiq Universe</h1>
         <p className="mt-3">Extend your trading and investment experience even further with our partner platforms</p>
         <div className="col-4 p-3 mt-5">
           <img src="media/images/smallcaselogo.png" />
@@ -43,7 +43,7 @@ function Universe() {
           </p>
         </div>
         <button className="p-2 btn btn-primary fs-5 mb-5" style={{ width: "15%", margin: "0 auto" }}>
-          Sign up now
+         <a href="https://zerodha-clone-dashboard.vercel.app/register" class="white-link">Sign up now </a>
         </button>
       </div>
     </div>
