@@ -10,6 +10,7 @@ function WacthListItem({ stock }) {
 
   const handleMouseExit = (e) => SetShowWatchListActions(false);
 
+  
   return (
     <li onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseExit}>
       <div className="item">
