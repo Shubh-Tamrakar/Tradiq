@@ -9,4 +9,5 @@ const HoldingsSchema = new Schema({
   day: String,
 });
 
+
 module.exports = { HoldingsSchema };
