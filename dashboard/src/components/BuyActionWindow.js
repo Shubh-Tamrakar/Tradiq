@@ -6,6 +6,7 @@ import GeneralContext from "./GeneralContext";
 import "./BuyActionWindow.css";
 import { useAuth } from "../hooks/useAuth";
 
+
 const BuyActionWindow = ({ uid }) => {
   const [stockQuantity, setStockQuantity] = useState(1);
   const [stockPrice, setStockPrice] = useState(0.0);
