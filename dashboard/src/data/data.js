@@ -132,6 +132,7 @@ export const holdings = [
     day: "-0.34%",
     isLoss: true,
   },
+  
   {
     name: "SGBMAY29",
     qty: 2,
