@@ -7,4 +7,5 @@ const { index } = require("../controller/positionsController");
 
 router.get("/index", verifyToken, index);
 
+
 module.exports = router;
