@@ -1,5 +1,5 @@
 # Tradiq 🚀
-
+ 
 Tradiq is a modern **stock trading platform clone** inspired by Zerodha.  
 It is built using the **MERN Stack** and provides users with a seamless trading experience including dashboard analytics, watchlists, holdings, orders, and portfolio tracking.
 
