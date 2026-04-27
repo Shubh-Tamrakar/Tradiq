@@ -7,6 +7,7 @@ import GeneralContext from "./GeneralContext";
 function WatchListAction({ uid }) {
   const generalContext = useContext(GeneralContext);
 
+  
   const handleBuyClick = () => {
     generalContext.openBuyWindow(uid);
   };
