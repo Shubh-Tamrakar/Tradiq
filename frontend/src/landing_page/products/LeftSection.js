@@ -1,5 +1,5 @@
 import React from "react";
-
+ 
 function LeftSection({ imageUrl, productName, productDesrption, tryDemo, learnMore, googlePlay, appStore }) {
   return (
     <div className="container mt-5">
