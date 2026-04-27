@@ -19,4 +19,5 @@ module.exports.create = async (req, res) => {
 module.exports.index = async (req, res) => {
   let user = await UserModel.findOne({ email: req.user.email }).populate("orders");
   res.json(user.orders);
+  
 };
