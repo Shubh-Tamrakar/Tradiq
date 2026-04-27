@@ -1,5 +1,5 @@
 import React from "react";
-
+ 
 function Hero() {
   return (
     <section className="container-fluid" id="supportHero">
