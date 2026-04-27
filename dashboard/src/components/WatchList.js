@@ -4,6 +4,7 @@ import { watchlist } from "../data/data";
 import WacthListItem from "./WatchListItem";
 import { DoughnutChart } from "./DoughnutChart";
 
+
 const WatchList = () => {
   const labels = watchlist.map((subArray) => subArray["name"]);
   const data = {
