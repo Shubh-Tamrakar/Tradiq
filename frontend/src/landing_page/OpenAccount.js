@@ -7,7 +7,7 @@ function OpenAccount() {
         <h1 className="mt-5 mb-4">Open a Tradiq account</h1>
         <p className="mb-4">Modern platforms and apps, ₹0 investments, and flat ₹20 intraday and F&O trades.</p>
         <button style={{ width: "20%", margin: "0 auto" }} className="p-2 btn btn-primary fs-5">
-          <a href="https://tradiq-git-main-shubhtamrakar08-2687s-projects.vercel.app/register" class="white-link">Sign up now </a>
+          <a href="https://tradiq-omda-21ae8mzql-shubhtamrakar08-2687s-projects.vercel.app/login" class="white-link">Sign up now </a>
         </button>
       </div>
     </div>
