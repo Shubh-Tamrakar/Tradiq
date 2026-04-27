@@ -15,6 +15,7 @@ import { createTheme, ThemeProvider } from "@mui/material/styles";
 
 import { useAuth } from "../hooks/useAuth";
 
+
 const defaultTheme = createTheme();
 
 export default function Login() {
