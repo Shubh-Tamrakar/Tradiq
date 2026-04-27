@@ -8,6 +8,7 @@ const Positions = () => {
   let [allPositions, SetAllPositions] = useState([]);
   let { user } = useAuth();
 
+  
   useEffect(() => {
     axios
       .get("https://zerodha-clone-backend-8nlf.onrender.com/positions/index", {
