@@ -11,7 +11,7 @@ function Universe() {
           <p className="text-muted mt-2" style={{ fontSize: "0.7em" }}>
             Thematic investment platform
           </p>
-        </div>
+        </div>+++++++++++++++++++++
         <div className="col-4 p-3 mt-5">
           <img src="media/images/streakLogo.png" style={{ width: "40%" }} />
           <p className="text-muted mt-2" style={{ fontSize: "0.7em" }}>
