@@ -18,6 +18,7 @@ import { useAuth } from "../hooks/useAuth";
 
 const defaultTheme = createTheme();
 
+
 export default function Register() {
   let [alert, setAlert] = React.useState({ st: false, msg: "" });
   const navigate = useNavigate();
