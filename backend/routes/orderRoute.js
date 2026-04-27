@@ -7,4 +7,5 @@ const { verifyToken } = require("../middlewares/verifyToken");
 router.post("/create", verifyToken, create);
 router.get("/index", verifyToken, index);
 
+
 module.exports = router;
