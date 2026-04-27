@@ -65,14 +65,22 @@ It is built using the **MERN Stack** and provides users with a seamless trading 
 
 ## 📸 Screenshots
 
-### Homepage
-![Homepage](./Screenshot/Homepage.jpeg)
+### Pie Chart
+![Pie Chart](./Screenshot/a1.png)
 
-### Dashboard
-![Dashboard](./Screenshot/Dashboard.jpeg)
+### Holdings
+![Holdings](./Screenshot/a2.png)
 
-### Product Page
-![Product](./Screenshot/Product.jpeg)
+### Home Page
+![Home Page](./Screenshot/a6.png)
+
+### Pricing Page
+![Pricing](./Screenshot/a5.png)
 
 ### Support Page
-![Support](./Screenshot/Support.jpeg)
+![Support](./Screenshot/a4.png)
+
+### Footer Page
+![Footer](./Screenshot/a3.png)
+
+
