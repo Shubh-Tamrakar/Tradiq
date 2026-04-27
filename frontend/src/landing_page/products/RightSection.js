@@ -1,5 +1,5 @@
 import React from "react";
-
+ 
 function RightSection({ imageUrl, productName, productDescrption, learnMore }) {
   return (
     <div className="container">
