@@ -15,7 +15,7 @@ function Navbar() {
           <form className="d-flex" role="search">
             <ul className="navbar-nav mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="https://zerodha-clone-dashboard.vercel.app/register">
+                <a className="nav-link active" aria-current="page" href="https://tradiq-git-main-shubhtamrakar08-2687s-projects.vercel.app/register">
                   Register
                 </a>
               </li>
