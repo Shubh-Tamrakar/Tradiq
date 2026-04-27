@@ -8,6 +8,7 @@ const Orders = () => {
   const [allOrders, SetAllOrders] = useState([]);
   let { user } = useAuth();
 
+  
   useEffect(() => {
     axios
       .get("https://zerodha-clone-backend-8nlf.onrender.com/orders/index", {
