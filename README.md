@@ -7,7 +7,7 @@ It is built using the **MERN Stack** and provides users with a seamless trading 
 
 # 🌟 Live Demo
 
-🔗 **Frontend:** [https://your-frontend-link.vercel.app](https://tradiq-9pim.vercel.app/)  
+🔗 **Frontend:** [https://tradiq_by_Shubh.app](https://tradiq-9pim.vercel.app/)  
 
 > Replace the above links with your deployed URLs.
 
